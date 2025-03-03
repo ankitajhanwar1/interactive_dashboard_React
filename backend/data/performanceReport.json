@@ -1,0 +1,122 @@
+[
+  {
+    "source": "affiliate_prospecting",
+    "revenue": 683421.6418273146,
+    "conversions": 5360.808844409943,
+    "spend": 57297.187454,
+    "roas": 11.92766472832523,
+    "cpa": 10.688160894553707
+  },
+  {
+    "source": "baseline",
+    "revenue": 2372241.549424905,
+    "conversions": 22545.831378889456,
+    "spend": 0.0,
+    "roas": null,
+    "cpa": 0.0
+  },
+  {
+    "source": "direct",
+    "revenue": 215396.05772978533,
+    "conversions": 1842.5147815297255,
+    "spend": 0.0,
+    "roas": null,
+    "cpa": 0.0
+  },
+  {
+    "source": "display_prospecting",
+    "revenue": 90413.8363160254,
+    "conversions": 624.8169426485804,
+    "spend": 47668.017379000004,
+    "roas": 1.896740021661923,
+    "cpa": 76.29117286246544
+  },
+  {
+    "source": "display_retargeting",
+    "revenue": 81741.41924673019,
+    "conversions": 653.1454546439693,
+    "spend": 20251.029996999998,
+    "roas": 4.03640798807959,
+    "cpa": 31.005390687498345
+  },
+  {
+    "source": "google_performance",
+    "revenue": 48827.12098308921,
+    "conversions": 331.43871380206224,
+    "spend": 9479.305633999997,
+    "roas": 5.1509174688869654,
+    "cpa": 28.600477974522647
+  },
+  {
+    "source": "organicsearch",
+    "revenue": 26192.884886176496,
+    "conversions": 217.5822768458255,
+    "spend": 0.0,
+    "roas": null,
+    "cpa": 0.0
+  },
+  {
+    "source": "organicsocial",
+    "revenue": 268920.97612634907,
+    "conversions": 2241.5818406747762,
+    "spend": 0.0,
+    "roas": null,
+    "cpa": 0.0
+  },
+  {
+    "source": "paidsearch_brand",
+    "revenue": 237520.7453722621,
+    "conversions": 2082.791888064192,
+    "spend": 186193.40993200016,
+    "roas": 1.275666767470488,
+    "cpa": 89.3960702454309
+  },
+  {
+    "source": "paidsearch_dynamic_search_ads_prospecting",
+    "revenue": 67185.62481240829,
+    "conversions": 622.6045030545849,
+    "spend": 25181.090000000026,
+    "roas": 2.668098355250238,
+    "cpa": 40.44476048030181
+  },
+  {
+    "source": "paidsearch_generic_prospecting",
+    "revenue": 78500.88224062115,
+    "conversions": 670.547816061083,
+    "spend": 7308.529999999999,
+    "roas": 10.740994733636063,
+    "cpa": 10.899342037875243
+  },
+  {
+    "source": "paidsocial_prospecting",
+    "revenue": 214279.09827266049,
+    "conversions": 1682.8391827438797,
+    "spend": 187157.32912200002,
+    "roas": 1.1449142776181687,
+    "cpa": 111.21521951779066
+  },
+  {
+    "source": "paidsocial_retargeting",
+    "revenue": 15597.749079001176,
+    "conversions": 137.13394182568422,
+    "spend": 16156.877754,
+    "roas": 0.9653937670686158,
+    "cpa": 117.81822602705883
+  },
+  {
+    "source": "radio",
+    "revenue": 62781.51109711825,
+    "conversions": 440.83806253998193,
+    "spend": 16395.040000000008,
+    "roas": 3.829299050024777,
+    "cpa": 37.19061803678319
+  },
+  {
+    "source": "tv",
+    "revenue": 283706.2025855503,
+    "conversions": 2286.524372266229,
+    "spend": 286920.96999699995,
+    "roas": 0.988795634520951,
+    "cpa": 125.48345142397311
+  }
+]

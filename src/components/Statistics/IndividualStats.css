@@ -1,0 +1,31 @@
+.featuredContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  gap: 10px;
+  height: 500px;
+}
+
+.featuredItem {
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  background-color: white;
+}
+
+.featuredTitle {
+  font-size: 20px;
+}
+
+.featuredMoneyContainer {
+  margin: 10px 0px;
+  display: flex;
+  align-items: center;
+  .featuredMoney {
+    font-size: 30px;
+    font-weight: 600;
+  }
+}
